@@ -21,6 +21,6 @@ function updateTime() {
   }
 }
 // Updating the time every second
-setInterval(updateTime, 1000);
+setInterval(updateTime, 900);
 // Initial update
 updateTime();
